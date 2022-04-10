@@ -1,0 +1,9 @@
+name: ArmorStandGUI
+version: 4.2-SNAPSHOT
+main: me.regos.armorstandgui.ArmorStandGUI
+api-version: 1.17
+commands:
+  armorstand:
+    description: Armor stand manager
+    usage: /<command>
+    aliases: as
